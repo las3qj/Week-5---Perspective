@@ -139,7 +139,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &91508375
 Transform:
   m_ObjectHideFlags: 0
@@ -284,7 +284,7 @@ GameObject:
   - component: {fileID: 226429247}
   - component: {fileID: 226429246}
   - component: {fileID: 226429245}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: BigYellowCube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -793,7 +793,7 @@ Camera:
   m_Depth: 0
   m_CullingMask:
     serializedVersion: 2
-    m_Bits: 4294967295
+    m_Bits: 55
   m_RenderingPath: -1
   m_TargetTexture: {fileID: 0}
   m_TargetDisplay: 0
@@ -933,7 +933,7 @@ PrefabInstance:
     - target: {fileID: 9005220659476430821, guid: 2d3a85ecde41a8246a79669975912b74,
         type: 3}
       propertyPath: m_CullingMask.m_Bits
-      value: 55
+      value: 119
       objectReference: {fileID: 0}
     - target: {fileID: 9005220659476430821, guid: 2d3a85ecde41a8246a79669975912b74,
         type: 3}
@@ -995,7 +995,7 @@ GameObject:
   - component: {fileID: 1167039215}
   - component: {fileID: 1167039214}
   - component: {fileID: 1167039213}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: SmallYellowCube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1611,7 +1611,7 @@ GameObject:
   - component: {fileID: 1432276023}
   - component: {fileID: 1432276022}
   - component: {fileID: 1432276021}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: ClownNose
   m_TagString: Untagged
   m_Icon: {fileID: 0}
